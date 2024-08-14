@@ -1,9 +1,6 @@
 package com.ian.employee_management_system;
 
-/**
- *
- * @author Ian Tagano
- */
+
 
 public abstract class Employee 
 {
